@@ -5,7 +5,7 @@ Zero-dependency, ANSI-aware paragraph wrap, fill, and shorten with hanging inden
 ## Install
 
 ```bash
-pip install wordwrap
+python -m pip install -e .
 ```
 
 Requires Python 3.10+. No runtime dependencies.
